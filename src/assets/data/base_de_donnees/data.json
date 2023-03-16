@@ -1,0 +1,97 @@
+[
+    {
+        "id": "Cow",
+        "options": [
+            {
+                "name": "test",
+                "link": "https://t.corp.amazon.com/create/templates/df6b3046-597c-456b-94c2-1c63514b39b3"
+            }
+        ]
+    },
+    {
+        "id": "Screen",
+        "options": [
+            {
+                "name": "dockDoor",
+                "link": "https://t.corp.amazon.com/create/templates/6b5cac74-429a-4fcf-81db-eef60ec88bf2"
+            },
+            {
+                "name": "falls",
+                "image": "https://www.ttnews.com/sites/default/files/images/articles/amazonmain_24.jpg",
+                "link": "https://t.corp.amazon.com/create/templates/9ba0804c-65cf-41f8-b7fc-feef12bdd5c3"
+            },
+            {
+                "name": "scada",
+                "link": "https://t.corp.amazon.com/create/templates/65d72516-8115-445a-af36-f6140a80ece9"
+            },
+            {
+                "name": "cptChaser",
+                "link": "https://t.corp.amazon.com/create/templates/0182d64b-9e16-4558-a1e9-0b218d996e11"
+            }
+        ]
+    },
+    {
+        "id": "Print",
+        "options": [
+            {
+                "name": "cow",
+                "link": "https://t.corp.amazon.com/create/templates/6f067981-47dc-4c31-84a1-f176a06a6a06"
+            },
+            {
+                "name": "falls",
+                "link": "https://t.corp.amazon.com/create/templates/7d42ad96-e66a-4ecf-9080-7918f96d25bb"
+            },
+            {
+                "name": "office",
+                "link": "https://t.corp.amazon.com/create/templates/8c3b0a59-89e1-4c05-afba-18fe135008a2"
+            }
+        ]
+    },
+    {
+        "id": "Laptop",
+        "options": [
+            {
+                "name": "cow",
+                "link": "https://t.corp.amazon.com/create/templates/85e9b0f9-13e6-4c30-8813-50da203d7808"
+            },
+            {
+                "name": "staff",
+                "link": "https://t.corp.amazon.com/create/templates/e49d1402-ea80-4c8f-a664-d44da2b0f6bc"
+            }
+        ]
+    },
+    {
+        "id": "Item",
+        "options": [
+            {
+                "name": "kindle",
+                "link": "https://t.corp.amazon.com/create/templates/d1659f96-39a4-4dc5-a72a-d51b3413de7f"
+            },
+            {
+                "name": "scan",
+                "link": "https://t.corp.amazon.com/create/templates/5b056948-33b4-4a6e-b1a2-87191de9d70f"
+            },
+            {
+                "name": "talky",
+                "link": "https://t.corp.amazon.com/create/templates/11a33e0a-0336-4759-b279-21b876f0be5e"
+            },
+            {
+                "name": "tc56",
+                "link": "https://t.corp.amazon.com/create/templates/18e341e6-73a7-4b12-8995-56e4a23b86d2"
+            }
+        ]
+    },
+    {
+        "id": "Other",
+        "options": [
+            {
+                "name": "account",
+                "link": "https://t.corp.amazon.com/create/templates/d1659f96-39a4-4dc5-a72a-d51b3413de7f"
+            },
+            {
+                "name": "ipad",
+                "link": "https://t.corp.amazon.com/create/templates/5b056948-33b4-4a6e-b1a2-87191de9d70f"
+            }
+        ]
+    }
+]

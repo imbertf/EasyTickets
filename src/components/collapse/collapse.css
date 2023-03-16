@@ -1,0 +1,52 @@
+.collapse {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.collapseTitle {
+    background: rgb(0, 33, 66);
+}
+
+.collapse h2 {
+    margin: 0;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+}
+
+.collapse ul {
+    color: white;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.collapseName {
+    background-color: #6E8CA9;
+    display: flex;
+}
+
+.collapseName li{
+    list-style: none;
+    margin: 5px;
+}
+
+.collapseClosed {
+    display: none;
+}
+
+.locationName {
+    background-color: #8AA2B8;
+}
+
+.locationName li {
+    list-style: none;
+    margin: 5px;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(0, 33, 66);
+}

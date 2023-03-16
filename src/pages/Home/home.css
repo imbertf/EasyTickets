@@ -1,0 +1,14 @@
+.collapseContainer {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 40px;
+}
+
+.collapseBox {
+    border: 3px solid blue;
+    display: flex;
+    width: 560px;
+    height: 300px;
+    justify-content: center;
+    background-color: rgba(208, 208, 208, 0.5);
+}
